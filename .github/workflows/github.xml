@@ -1,8 +1,6 @@
 name: win 11 + tailscale + Download.bat script 
-
 on:
   workflow_dispatch:
-
 jobs:
   secure-rdp:
     runs-on: windows-2022
